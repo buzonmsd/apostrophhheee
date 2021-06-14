@@ -5,6 +5,7 @@
     -webkit-user-select: none;
     -moz-user-select: -moz-none;
     user-select: none;
+    cursor:url('../cur1.png'), auto;
   }
 
   body {

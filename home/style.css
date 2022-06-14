@@ -10,13 +10,8 @@ a:hover, a:active, a:visited{
   cursor:url('cur1.png'), auto;
 }
 
-html{
-  overflow: hidden;
- }
-
 body {
   background-color: none;
-  background-image: url('assets/1Banner-Completo.png');
   background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
@@ -25,8 +20,6 @@ body {
   height: 100%;
   place-items: center center;
   }
-
-
 
 
 h4 {

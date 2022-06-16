@@ -84,14 +84,14 @@
   h2{
     font-family: 'Xanh Mono', monospace;
     font-size: 0.8vw;
-    color: rgba(0, 0, 0, 0.7);
+    color: rgba(82, 63, 255, 1);
     background-color: white;
     text-align: right;
     line-height: 1.5;
     position: fixed;
     padding: 1%;
-    border-left: 1px solid black;
-    border-bottom: 1px solid black;
+    border-left: 1px solid rgba(82, 63, 255, 1);
+    border-bottom: 1px solid rgba(82, 63, 255, 1);
     box-shadow: rgba(82, 63, 255, 1) -100px 100px 200px; 
     left: 73%;
     top: 0px;

@@ -3,11 +3,11 @@
   -webkit-user-select: none;
   -moz-user-select: -moz-none;
   user-select: none;
-  cursor:url('cur1.png'), auto;
+  cursor:url('../cur1.png'), auto;
   }
 
 a:hover, a:active, a:visited{
-  cursor:url('cur1.png'), auto;
+  cursor:url('../cur1.png');
 }
 
 body {
@@ -237,32 +237,32 @@ h4 {
 
 #LF1:hover, #LF2:hover, #LF3:hover {
     filter: drop-shadow(0 0 0.1rem rgba(255, 0, 255, 0.5));
-    box-shadow: inset 0px 0px 5rem 0.5rem  rgba(255, 0, 255, 0.83) ,  0px 0px 5rem 1.7rem  rgba(255, 0, 255, 1);
+    box-shadow: inset 0px 0px 5rem 0.5rem  rgba(255, 0, 255, 0.5) ,  0px 0px 5rem 1.7rem  rgba(255, 0, 255, 1);
     border-radius: 200px 200px 200px 200px;
 }
 
 #SR1:hover, #SR2:hover, #SR3:hover {
-    filter: drop-shadow(0 0 0.1rem rgba(100, 255, 100, 0.5)); 
+    filter: drop-shadow(0 0 0.1rem rgba(100, 255, 100, 0.78)); 
     box-shadow: inset 0px 0px 5rem 0.5rem  rgba(100, 255, 100, 0.78) ,  0px 0px 5rem 1.7rem  rgba(100, 255, 100, 1);
     border-radius: 200px 200px 200px 200px;
 }
 
 #WS1:hover, #WS2:hover, #WS3:hover {
     filter: drop-shadow(0 0 0.5rem rgba(255, 0, 0, 0.5));
-    box-shadow: inset 0px 0px 5rem 0.5rem  rgba(255, 0, 0, 0.38) ,  0px 0px 5rem 1.7rem  rgba(255, 0, 0, 0.55);
+    box-shadow: inset 0px 0px 5rem 0.5rem  rgba(255, 0, 0, 0.5) ,  0px 0px 5rem 1.7rem  rgba(255, 0, 0, 1);
     border-radius: 200px 200px 200px 200px;
 }
 
 #UU1:hover, #UU2:hover, #UU3:hover {
   filter: drop-shadow(0 0 0.1rem rgba(1, 1, 107, 0.5));
-  box-shadow: inset 0px 0px 5rem 1rem  rgba(4, 4, 143, 0.67)  ,  0px 0px 5rem 1.7rem  rgb(0, 0, 122);
+  box-shadow: inset 0px 0px 5rem 1rem  rgba(1, 1, 107, 0.5)  ,  0px 0px 5rem 1.7rem  rgba(1, 1, 107, 1);
   border-radius: 200px 200px 200px 200px;
 }
 
 
 #A1:hover, #A2:hover, #A3:hover {
-  filter: drop-shadow(0 0 0.1rem rgba(0, 0, 255, 0.5));
-  box-shadow: inset 0px 0px 5rem 1rem  rgba(0, 0, 255, 0.67)  ,  0px 0px 5rem 1.7rem  rgba(0, 0, 255, 1);
+  filter: drop-shadow(0 0 0.1rem rgba(82, 63, 255, .5));
+  box-shadow: inset 0px 0px 5rem 1rem  rgba(82, 63, 255, .5)  ,  0px 0px 5rem 1.7rem  rgba(82, 63, 255, 1);
   border-radius: 200px 200px 200px 200px;
 }
 
